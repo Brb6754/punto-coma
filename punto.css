@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&display=swap');
+
+.fondo{
+	background-color: #1A3B55;
+}
+
+.header{
+	margin-left: 0%;
+	margin-top: 0%;
+	margin-right: 0%;
+}
+
+
+.button{
+	width:100%;
+  margin-right: 3%;
+	margin-left: 3%;
+  border-radius: 50px;
+  box-shadow:  10px 10px 20px #132c3f,
+              -10px -10px 20px #214a6b;
+	border-color: transparent;
+	
+
+	}
+
+
+.button:hover{
+	transform: scale(1.1);
+}
+
+
+.imagen2:hover{
+	transform: scale(1.1);
+}
+
+.imagen{
+  margin-left: 8%;
+	width: 45%;
+  height: 17%;
+	border-radius: 40px;
+}
+
+.art{
+  background-color:#E6DED6 ;
+}
+
+  .contenedor {
+    width: 95%;
+    display: flex;
+    
+    padding: 10px;
+  }
+
+    .contenedor2 {
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow: auto;
+  }
+  .imagen2 {
+    width: 30%;
+    margin-left: 3%;
+    margin-top: 0;
+    margin-bottom: 3%;
+  }
+  .feet{
+    margin-bottom: 0%;
+  }
